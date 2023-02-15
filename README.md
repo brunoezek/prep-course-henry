@@ -1,2 +1,1 @@
-# prep-course-henry
-este es un repositorio de prueba modulo 2 
+este proyecto es una prueba de clon 
